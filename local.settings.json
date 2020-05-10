@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "DriverAzure": "ODBC Driver 17 for SQL Server",
+    "ServerBdAzure": "svd1.database.windows.net",
+    "DataBaseAzure": "azurem",
+    "UserNameBdAzure": "azurem",
+    "PassWordBdAzure": "sensores2020*",
+    "SQL_datos": "SELECT * FROM matrizD"
+  }
+}

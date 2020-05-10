@@ -1,1 +1,1 @@
-# NAIVE
+# KNN
